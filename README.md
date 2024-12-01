@@ -1,2 +1,2 @@
 # IPL_WIN_PREDICTOR
-IPL Win Predictor 
+This project predicts who will win during second innings of an IPL cricket match. It uses smart computer programs to analyze past matches and player performance. You can input details like the teams playing and the current score, and the program will predict the winning team. The program is quite accurate, getting it right 80% of the time. It's easy to use, thanks to a simple website interface.
